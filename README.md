@@ -5,8 +5,27 @@ We have a wide variety of breakfast dishes to choose from; each designed to be e
 
 
 ## Breakfast
+We offer a short but sweet range of breakfast options, check them out:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Poached egg on toast.
+This simple classic never fails to wow, with a runny yolk poached egg sat perfectly atop golden brown-lightly buttered toast.
+This breakfast option pairs great with a glass of cool orange juice.
+
+### Eggs royale.
+A beautiful classic option; toasted muffin serves as the base for two perfect runny poached eggs, glazed in our traditional house hollandaise sauce made from scratch, with love.
+We serve this with an optional side of smoked salmon, at the diners request.
+
+### Full english.
+Saussage, egg, bacon, beans and toast - the cornerstones of a perfect morning.
+This breakfast is guaranteed to leave you full and warm inside.
+
+### Chef's special: Saussage wrap.
+For those lazy mornings where everything feels slow and cold, this meal is designed for brightening your day up.
+Butterflied saussage with a sprinkeling of cheddar, served inside a lightly toasted plain flour tortilla.
+
+## Drinks
+
+
 
 ```markdown
 Syntax highlighted code block
