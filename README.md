@@ -24,33 +24,10 @@ For those lazy mornings where everything feels slow and cold, this meal is desig
 Butterflied saussage with a sprinkeling of cheddar, served inside a lightly toasted plain flour tortilla.
 
 ## Drinks
-
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mr55p-dev/FoodSite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+We specialise in coffee, although we never drink it.
+- **Capuccino**: served with just the right amount of chocolate on top.
+- **Latte**: milky coffee made wit love.
+- **Regular**: generally only served when milk is an issue, either for the house or for the diner.
+- **Orange** juice, no bits.
+- **Chocolate milkshake.**
+- **Tap water.**
