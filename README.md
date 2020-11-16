@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+# Welcome to El's
+We are famous for the friendliest breakfast - in bed or in our kitchenside lounge.
+Every meal is prepared with the most love you can imagine and no corners are cut.
+We have a wide variety of breakfast dishes to choose from; each designed to be enjoyed with a hot capuccino or fresh juice from the bottle, so why not check out our menu below!
 
-You can use the [editor on GitHub](https://github.com/mr55p-dev/FoodSite/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+## Breakfast
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
