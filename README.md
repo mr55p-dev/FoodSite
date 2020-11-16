@@ -3,7 +3,6 @@ We are famous for the friendliest breakfast - in bed or in our kitchenside loung
 Every meal is prepared with the most love you can imagine and no corners are cut.
 We have a wide variety of breakfast dishes to choose from; each designed to be enjoyed with a hot capuccino or fresh juice from the bottle, so why not check out our menu below!
 
-
 ## Breakfast
 We offer a short but sweet range of breakfast options, check them out:
 
@@ -31,3 +30,7 @@ We specialise in coffee, although we never drink it.
 - **Orange** juice, no bits.
 - **Chocolate milkshake.**
 - **Tap water.**
+
+# About Us
+Our chef is totally devoted to his customer, she makes his day bright and gives him that stupid grin all the time.
+He will happily guarantee the best breakfast or money back, and he hopes you will continue to dine with him for many many years to come.
