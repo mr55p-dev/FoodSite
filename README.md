@@ -76,7 +76,7 @@ Cocktails and drinks for the occasion.
 - **Gin and lemonade**: Classic and classy drink smooth drink, served with ice and lemon.
 - **Tequila Shot**: For when you want to die.
 - **Curaçao, gin and lemonade**: Even we dont know what this tastes like...
-- **Budewiser**
+- **Budweiser**
 
 # About Us
 Our chef is totally devoted to his customer, she makes his day bright and gives him that stupid grin all the time.
