@@ -80,4 +80,4 @@ Cocktails and drinks for the occasion.
 
 # About Us
 Our chef is totally devoted to his customer, she makes his day bright and gives him that stupid grin all the time.
-He will happily guarantee the best breakfast or money back, and he hopes you will continue to dine with him for many many years to come.
+He will happily guarantee the best meal or money back, and he hopes you will continue to dine with him for many many years to come.
