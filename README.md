@@ -6,7 +6,7 @@ We have a wide variety of breakfast dishes to choose from; each designed to be e
 ## Breakfast
 We offer a short but sweet range of breakfast options, each can be served with a side of pancakes:
 
-### Chef's special: Saussage wrap
+### **Chef's special**: Saussage wrap
 For those lazy mornings where everything feels slow and cold, this meal is designed for brightening your day up.
 Butterflied saussage with a sprinkeling of cheddar, served inside a lightly toasted plain flour tortilla.
 
@@ -28,7 +28,7 @@ This breakfast is guaranteed to leave you full and warm inside.
 
 ## Dinner
 
-### Chef Special: Honey chicken
+### **Chef's: Special**: Honey chicken
 Beautiful chicken marinated in a fragrant honey sauce, served with steamed vegetables and rice.
 We know this is your favourite really.
 
